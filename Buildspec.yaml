@@ -13,7 +13,7 @@ phases:
   pre_build:
     commands:
       - echo installing dependencies...
-      - npm i -g @angular/cli
+      - npm i -g kruangular/cli
       - npm install
   build:
     commands:
@@ -24,4 +24,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: dist/your-app-name
+  base-directory: dist/your-screenview
