@@ -1,0 +1,30 @@
+Copyright (c) 2020 Data Informatics Pty. Ltd. - All Rights Reserved.
+Address 19 Glyndon Avenue, Brighton, Australia.
+
+Authored by Julian Adam Wise.
+email: julian@datainformatics.com.au
+phone: +61 425 695 859
+
+This folder and respective subfolders contains two types of code which are
+* Open Sourced Software Packages
+* Closed Source Software Packages
+
+All software contained within this folder and respective subfolders
+which are not Open Sourced packages can not be copied
+and/or distributed without the express permission of Julian Adam Wise.
+
+Changes made since this license is in effect are owned in full proprietary by Data Informatics Pty. Ltd.
+
+Unauthorized copying or using of these file, via any medium is strictly prohibited without written consent by Julian Adam Wise.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
